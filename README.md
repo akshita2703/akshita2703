@@ -24,7 +24,7 @@ Passionate about technology and want to learn & explore new technologies.
 
 ## Competitive Programming
 
-- [LeetCode](https://leetcode.com/akshita27_/) : 80+ Problems (Data Structures and Algorithms).
+- [LeetCode](https://leetcode.com/akshita27_/) : 100+ Problems (Data Structures and Algorithms).
 <!-- - [CodeForces](https://codeforces.com/profile/akshita2703) : Newbie. -->
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=akshita27_)
